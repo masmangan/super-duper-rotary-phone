@@ -1,0 +1,47 @@
+    1  pwd
+    2  ls
+    3  cd aula03/
+    4  ls
+    5  gcc
+    6  cc
+    7  gcc hello.c
+    8  ls
+    9  ls -la
+   10  a.out
+   11  export 
+   12  clear
+   13  ./a.out
+   14  /workspaces/super-duper-rotary-phone/aula03/a.out 
+   15  ls /usr/include/stdio.h
+   16  cat /usr/include/stdio.h
+   17  cat /usr/include/stdio.h | grep printf
+   18  clear
+   19  ls /usr/lib
+   20  clear
+   21  history 
+   22  gcc --help
+   23  gcc --version
+   24  gcc hello.c
+   25  gcc -o hello hello.c
+   26  gcc -o ho hello.c
+   27  gcc -o h hello.c
+   28  ls -la
+   29  gcc -o h.exe hello.c
+   30  ls -la
+   31  ./h.exe 
+   32  gcc -E hello.c
+   33  gcc -E hello.c > hello.pre
+   34  clear
+   35  gcc --help
+   36  gcc -S hello.c
+   37  ls
+   38  ls -la
+   39  gcc -c hello.c
+   40  ls -la
+   41  more hello.o
+   42  hd hello.c
+   43  hd hello.o
+   44  clear
+   45  ls
+   46  history 
+   47  history > history.aula03.txt
